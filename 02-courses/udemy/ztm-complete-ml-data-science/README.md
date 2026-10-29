@@ -106,11 +106,10 @@ Example notebook organization:
 
 ```text
 notebooks/
-├── 01-python-and-jupyter/
-├── 02-numpy/
-├── 03-pandas/
-├── 04-data-visualization/
-└── 05-machine-learning/
+├── section-1-getting-ready-for-machine-learning/
+├── section-2-data-science-and-ml-tools/
+├── section-3-structured-data-projects/
+├── section-4-unstructured-data-projects/
 ```
 
 The actual organization will follow the course's progression rather than assuming every topic is covered in this order.
