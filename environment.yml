@@ -1,0 +1,10 @@
+name: ztm
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
+prefix: C:\Users\Admin\miniconda3\envs\ztm
